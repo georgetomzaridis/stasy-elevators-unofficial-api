@@ -36,8 +36,8 @@ All the content / data is only available in the Greek language as provided from 
 
 ### Get all elevators statuses
 
-```http
-  GET /api/status/
+``` https
+  GET https://stasy-elevators.georgetomzaridis.eu/api/status/
 ```
 
 ##### Example Response
@@ -123,8 +123,8 @@ All the content / data is only available in the Greek language as provided from 
 
 ### Get all elevators statuses for specific line
 
-```http
-  GET /api/items/${lineID}
+```https
+  GET https://stasy-elevators.georgetomzaridis.eu/api/items/${lineID}
 ```
 
 | Parameter | Type     | Description                       |
