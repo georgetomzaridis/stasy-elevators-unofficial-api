@@ -22,7 +22,7 @@ This project is under active development. The creator is not responsible for any
 
 #### Domain
 
-```http
+```https
   https://stasy-elevators.georgetomzaridis.eu
 ```
 
@@ -96,7 +96,6 @@ All the content / data is only available in the Greek language as provided from 
         "accessibilityType": 2,
         "accessibilityDescr": "Υπάρχει τουλάχιστον ένας ανελκυστήρας μη λειτουργικός, με τον σταθμό να παραμένει προσβάσιμος"
     }
-    ...
 ]
 
 ```
@@ -178,7 +177,6 @@ All the content / data is only available in the Greek language as provided from 
         "accessibilityType": 2,
         "accessibilityDescr": "Υπάρχει τουλάχιστον ένας ανελκυστήρας μη λειτουργικός, με τον σταθμό να παραμένει προσβάσιμος"
     },
-    ...
 ]
 
 ```
