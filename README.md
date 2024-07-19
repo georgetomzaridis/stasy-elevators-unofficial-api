@@ -116,7 +116,8 @@ All the content / data is only available in the Greek language as provided from 
 
 | accessibilityType | Type | What does this mean? |
 | :-------- | :------- | :------- |
-| `0` | `integer` | `Unkown or elevator maintenance is not from STASY` |
+| `-1` | `integer` | `Unknown` |
+| `0` | `integer` | `Elevator maintenance is not from STASY` |
 | `1` | `integer` | `All elevators are working and station is accessible` |
 | `2` | `integer` | `At least one elevator is working and station still accessible` |
 | `3` | `integer` | `No elevators working, station not accessible` |
