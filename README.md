@@ -8,9 +8,12 @@ This project is under active development. The creator is not responsible for any
 
 
 ## About this version
-#### Current Version: v1 (09/02/2024)
+#### Current Version: v1.1 (20/07/2024)
 - Fetch all elevator statuses from all lines
 - Fetch all elevator statuses from a specific line
+- FIX: Elevator names display
+- IMPROVED: Accessibility Status Setter
+- UPDATE: Accessibility Status Codes
 
 ## Tech Stack
 - Node.JS (https://nodejs.org/en)
